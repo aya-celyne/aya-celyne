@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aya-celyne
-- 👀 I’m interested in web and app developement
-- 🌱 I’m currently learning AI specially image processing
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 Interested in web and app developement
+- 🌱 Currently learning AI and Image processing
+- 💞️ Looking to collaborate on data science projects
 - 📫 How to reach me 
 
 <!---
